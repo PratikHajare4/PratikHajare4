@@ -58,12 +58,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PratikHajare4/PratikHajare4/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/PratikHajare4/count.svg?"  />
 </div>
